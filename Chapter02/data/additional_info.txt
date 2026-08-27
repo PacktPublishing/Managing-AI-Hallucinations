@@ -1,0 +1,32 @@
+DataMind Support Information
+============================
+
+Contact Support
+---------------
+For technical support, please contact us at:
+- Email: support@datamind.com
+- Phone: +1-555-0123
+- Hours: Monday-Friday, 9 AM - 5 PM EST
+
+Support Plans
+-------------
+- Free Plan: Community forum support only
+- Pro Plan: Email support within 24 hours
+- Enterprise Plan: Priority support with dedicated account manager
+
+Common Issues
+-------------
+1. Login Problems: Reset your password at datamind.com/reset
+2. API Rate Limits: Upgrade your plan for higher limits
+3. Integration Help: Check our documentation at docs.datamind.com
+
+Frequently Asked Questions
+--------------------------
+Q: How do I upgrade my plan?
+A: Visit your account settings and click "Upgrade Plan"
+
+Q: Can I cancel anytime?
+A: Yes, you can cancel your subscription at any time without penalties.
+
+Q: Is my data secure?
+A: Yes, we use industry-standard encryption and security practices.
