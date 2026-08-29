@@ -1,4 +1,4 @@
-# Chapter 4 - Monitoring AI Systems
+# Chapter 4 - Responsible Deployment
 
 This directory contains the educational synthetic monitoring example used in Chapter 4. It demonstrates how an application can instrument locally generated detector results with OpenTelemetry, expose them to Prometheus, and visualize them in Grafana.
 
@@ -88,7 +88,7 @@ The named Docker volumes retain Prometheus and Grafana data between ordinary `do
 | Prometheus | <http://localhost:9090> | Scrapes and stores application metrics |
 | Grafana | <http://localhost:3000> | Visualizes Prometheus data; sign in with `admin` / `admin` |
 
-Grafana provisions the Prometheus datasource and the **Synthetic LLM Monitoring Dashboard** automatically from the checked-in files.
+Grafana provisions the Prometheus datasource and the **LLM Hallucination Monitoring Dashboard** automatically from the checked-in files.
 
 ## What the demo records
 

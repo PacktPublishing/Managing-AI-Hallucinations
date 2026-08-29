@@ -538,7 +538,7 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Synthetic LLM Monitoring Dashboard",
+  "title": "LLM Hallucination Monitoring Dashboard",
   "uid": "llm-monitoring",
   "version": 1
 }
